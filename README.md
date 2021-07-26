@@ -1,14 +1,14 @@
 <h2>Hey there! I'm Lohith Kumar Reddy Malasani</h2>
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 
-💡 &nbsp;A computer science student passionate about designing applications and programming\
+💡 &nbsp;A computer science student passionate about designing applications and programming.\
 🎓 &nbsp;I'm currently studying Computer Science at Bharath University.\
 🌱 &nbsp;I enjoy creating applications that live on the real world . My goal is to always build applications that provide practical, real-time experiences . One of my interests are learning, I always love to learn new technologies and keep improving my skills.\
 💬 &nbsp;Do let me know what you think about me or anything that we could share which can eventually take both of us forward.Feel free to contact me .\
 ✉️ &nbsp;You can shoot me an email at lohith58malasaniii@gmail.com! I'll try to respond as soon as I can.\
-⚡ &nbsp;Fun fact: I like playing chess
+⚡ &nbsp;Fun fact: I like playing chess.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Languages and Tools</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -48,10 +48,8 @@
 <a href="https://twitter.com/LMalasani"><img src="https://img.shields.io/badge/-@lohithreddy-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
 </p>
-<p align="center">
+
 ![profile views](https://gpvc.arturio.dev/lohith58)
-</p>
-Credits: [Lohith Kumar Reddy Malasani](https://github.com/lohith58)
 
 Last Edited on: 26/07/2021
 
